@@ -1,2 +1,3 @@
 clase de poo con uso de sourcetree
 lolo
+para guardar los cambios desde github usa pull y no pushh
