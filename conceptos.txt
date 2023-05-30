@@ -6,3 +6,5 @@ setter.-guarda el valor asignado
 getter.-obtiene un valor
 puntero.- variable que almacena la dirección de memoria de un objeto
 constructor.- ayuda a inicializar los valores/atributos de los elementos de una clase
+.-. //poo
+prolae
