@@ -1,0 +1,8 @@
+clases.- agrupacion de un conjunto de datos de comparte caracteristicas similares
+Objeto.- representa una instancia (entidad o ente) entorno al cual se conforma por metodos y atributos.
+Método.- son las aaciones que realiza ese objeto
+Atributo.- son las caracteristicas del objeto, color, tamaño forma
+setter.-guarda el valor asignado
+getter.-obtiene un valor
+puntero.- variable que almacena la dirección de memoria de un objeto
+constructor.- ayuda a inicializar los valores/atributos de los elementos de una clase
